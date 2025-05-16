@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.7",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "ai-document-generator",
+    "libraryId": "415cf930-a023-4ae6-b2c8-6c6f5c570dc1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ai-document-generator",
+    "solutionShortDescription": "ai-document-generator description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
